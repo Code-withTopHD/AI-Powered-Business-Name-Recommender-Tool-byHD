@@ -158,18 +158,12 @@ Rank Name           Score  Availability(.com,.co)
 ...
 ```
 
-### Roles & Timeline (Reference)
+### Roles \
 
 - ML Engineer: implement `generator.py`, `scorer.py`, tune parameters
 - Data Engineer: expand/maintain `data/` corpora, profanity list
 - Software Engineer: implement/maintain `domain_checker.py` integrations
-- Coordinator: manage iterations, collect feedback from branding team
 
-Suggested timeline:
-- Week 1: Curate/clean datasets; finalize keyword taxonomy
-- Week 2: Prototype generation/scoring; validate with ~200 names
-- Week 3: Domain check integration; polish CLI and outputs
-- Week 4: Final testing; deliver report and shortlist
 
 ### Success Criteria
 
